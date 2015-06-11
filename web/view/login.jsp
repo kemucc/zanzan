@@ -10,8 +10,8 @@
 
     <title></title>
 
-    <link href="source/script/bootstrap-3.3.4-dist/css/bootstrap.min.css" rel="stylesheet">
-    <link href="source/css/signin.css" rel="stylesheet">
+    <link href="<%=request.getContextPath()%>/resources/script/bootstrap-3.3.4-dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/resources/css/signin.css" rel="stylesheet">
 
 </head>
 
